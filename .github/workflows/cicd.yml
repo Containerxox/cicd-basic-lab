@@ -1,4 +1,4 @@
-# .github/workflows/cicd.yml — 단계 2: Docker Hub + 컨테이너 실행!
+# .github/workflows/cicd.yml — 단계 2: Docker Hub + 컨테이너 실행!!
 
 name: CI/CD - cicd-basic-lab to mylab-bastion (Docker)
 
